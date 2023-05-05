@@ -1,17 +1,26 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    componenteFormativo: 'Diagnóstico en educación ambiental',
+    descripcionCurso:
+      'La educación ambiental no es solamente un proceso de transformación de costumbres y hábitos en una comunidad, también es considerado una estrategia clave para garantizar el cumplimiento o éxito de las intervenciones ambientales en un territorio, ya que se fundamenta en involucrar a las personas activamente en el diagnóstico de los mismos y en la búsqueda de alternativas viables para sus necesidades ambientales.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
       },
       {
-        clases: ['banner-principal-decorativo-2'],
+        clases: ['banner-principal-decorativo-2', 'd-none', 'd-lg-block'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-4', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-4.svg'),
       },
     ],
   },
@@ -31,28 +40,51 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Reflexión inicial',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
-            hash: 't_1_1',
-          },
-        ],
       },
 
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Conceptos de desarrollo sostenible y educación ambiental',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Normatividad nacional en educación ambiental',
         desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Enfoque diferencial de las comunidades',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Enfoque diferencial étnico',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo:
+              'Enfoque diferencial de orientaciones sexuales e identidad de género',
+            hash: 't_4_2',
+          },
+          {
+            numero: '4.3',
+            titulo:
+              'Enfoque diferencial de personas en condición de discapacidad',
+            hash: 't_4_3',
+          },
+          {
+            numero: '4.4',
+            titulo: 'Enfoque diferencial de edad',
+            hash: 't_4_4',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -111,12 +143,12 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: '',
+      significado: '',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: '<em></em>',
+      significado: '',
     },
   ],
   referencias: [

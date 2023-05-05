@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Diagnóstico en educación ambiental**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-bogota-dc.github.io/CF05_921200_AGUA_Y_SANAMIENTO/](https://ecored-bogota-dc.github.io/CF05_921200_AGUA_Y_SANAMIENTO/)
 
 #
 
