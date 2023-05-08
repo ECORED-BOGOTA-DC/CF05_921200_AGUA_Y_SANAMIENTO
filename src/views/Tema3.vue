@@ -2,20 +2,20 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 3
       h1 Normatividad nacional en educación ambiental
     .row.align-items-center.mb-5
-      .col-lg-4.mb-4.mb-lg-0
+      .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema3/img1.png', style="width:450px").m-auto
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         p Entender las bases normativas que rigen la educación ambiental, no solamente permite tener fundamentos para hacer valer los derechos, también sirve para fortalecer y garantizar los procesos de participación y de educación a las comunidades, con miras a promover un ambiente sano y el desarrollo sostenible en las mismas.
         .cajon.color-acento-botones.p-4
           p.mb-0 Por lo anterior, en este apartado se realizará un recorrido por algunas de las principales normas y eventos que soportan la política nacional de educación ambiental y que han brindado un punto de referencia para la normativa ambiental de nuestro país:
     .row.align-items-center.mb-4
-      .col-lg-7.mb-4.mb-lg-0
+      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
         LineaTiempoD.color-primario
           .row(numero="1" titulo="1972 - Conferencia de Estocolmo")
             .col-12
@@ -61,14 +61,14 @@
                         a.boton.color-primario.texto-blanco(:href="obtenerLink('/downloads/anexo1.pdf')" target="_blank")
                           span(style="color: #000 !important") Descargar
                           i.fas.fa-file-download(style="color: #000 !important")
-      .col-lg-5
+      .col-lg-5(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema3/img1.svg', style="width:450px").m-auto
     .row.align-items-center.mb-5
-      .col-lg-5.order-2.order-lg-1
+      .col-lg-5.order-2.order-lg-1(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema3/img2.svg', style="width:450px").m-auto
-      .col-lg-7.order-1.order-lg-2.mb-4.mb-lg-0
+      .col-lg-7.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
         LineaTiempoD.color-primario
           .row(numero="6" titulo="1992 - Cumbre de la Tierra Río")
             .col-12
@@ -166,7 +166,7 @@
                         a.boton.color-primario.texto-blanco(:href="obtenerLink('/downloads/anexo4.pdf')" target="_blank")
                           span(style="color: #000 !important") Descargar
                           i.fas.fa-file-download(style="color: #000 !important")
-    .tarjeta.color-secundario.p-3.shadow
+    .tarjeta.color-secundario.p-3.shadow(data-aos="fade-down")
       .row.justify-content-around.align-items-center
         .col-4.col-md-2.col-lg-1.mb-4.mb-lg-0
           img(src="@/assets/curso/tema3/img4.svg")

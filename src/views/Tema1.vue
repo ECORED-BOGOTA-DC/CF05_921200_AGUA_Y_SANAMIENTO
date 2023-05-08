@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 1
       h1 Reflexión inicial
@@ -10,14 +10,14 @@
       .col-12
         .px-5
           .row.align-items-center.mb-4
-            .col-lg-4.mb-4.mb-lg-0
+            .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
               figure
                 img(src='@/assets/curso/tema1/img1.svg', style="width:350px").m-auto
-            .col-lg-8
+            .col-lg-8(data-aos="fade-left")
               p.mb-4 La relación existente entre el desarrollo económico y social con el ambiental se ha hecho más evidente durante los últimos años, en parte porque se ha modificado la concepción de recursos naturales como un bien para el desarrollo del ser humano, al constatarse los cambios irreparables que se han producido en estos recursos, así como su inminente deterioro y pérdida.
               h4 Interpretación del territorio
               p.mb-0 Como proceso reflexivo realice la observación directa en su zona de residencia o comunidad sobre las condiciones actuales del entorno natural y dé respuesta a los siguientes interrogantes:
-          .row.justify-content-center.mb-4
+          .row.justify-content-center.mb-4(data-aos="fade-down")
             .col-10.col-md-8.col-lg.ps-0.pe-4.py-4.bg-c3.m-3.shadow-sm
               .row
                 .col-auto
