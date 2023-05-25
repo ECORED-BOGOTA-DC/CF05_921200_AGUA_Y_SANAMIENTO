@@ -1,11 +1,11 @@
 <template lang="pug">
 .curso-main-container.pb-3
   BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
+  .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 4
-      h1 Enfoque de las comunidades
+      h1 Enfoque diferencial de las comunidades
     p(data-aos="fade-right") Vamos a hablar de un aspecto que es muy importante para realizar los diagnósticos ambientales en las comunidades: el enfoque diferencial y por ello, es importante definir algunos interrogantes:
     p.mb-5(data-aos="fade-right") ¿Qué es el enfoque diferencial?
     .row.mb-4(data-aos="fade-down")
@@ -13,7 +13,7 @@
         h3.text-white.mb-0.px-4.py-3 ¿Qué es el enfoque diferencial?
     figure.mb-5(data-aos="fade-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/qfUwkGkNtXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row.mb-4(data-aos="fade-right")
       .col-auto.bg-c5
         h3.text-white.mb-0.px-4.py-3 ¿Cuál es el papel del Ministerio de Ambiente y Desarrollo Sostenible?
@@ -21,7 +21,7 @@
       .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         p El Ministerio de Ambiente crea primero la oficina de educación y participación, la cual tiene la responsabilidad de aportar los elementos técnicos y conceptuales para la formulación, divulgación, ejecución y seguimiento de las políticas de educación ambiental y de participación ciudadana, así como promover y orientar el diseño y la evaluación de programas nacionales, regionales y sectoriales de educación ambiental en el sector productivo, instituciones del Estado, organizaciones de la sociedad civil y medios de comunicación; apoyar procesos de educación y participación en materia de desarrollo territorial, vivienda, agua potable y saneamiento básico y ambiental; y orientar procesos de organización social para la concertación, definición y puesta en marcha de agendas regionales y locales para el desarrollo sostenible (MAVDT, 2006, p,15).
         .cajon.color-primario.p-4
-          p.mb-0 Posteriormente, se crea la red colombiana de formación ambiental, que es un programa que cuenta con el apoyo del Ministerio de Ambiente, Vivienda y Desarrollo Territorial, que a su vez es punto focal del Programa de Naciones Unidas para el Medio Ambiente PNUMA. Es una organización que agrupa las entidades que requieren formar en la dimensión ambiental el recurso humano de las instituciones, cuyo objetivo primordial es la investigación y la formación.
+          p.mb-0 Posteriormente, se crea la Red Colombiana de Formación Ambiental, que es un programa que cuenta con el apoyo del Ministerio de Ambiente, Vivienda y Desarrollo Territorial, que a su vez es punto focal del Programa de Naciones Unidas para el Medio Ambiente PNUMA. Es una organización que agrupa las entidades que requieren formar en la dimensión ambiental el recurso humano de las instituciones, cuyo objetivo primordial es la investigación y la formación.
       .col-lg-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema4/img1.png', style="width:450px").m-auto
@@ -30,7 +30,7 @@
         figure
           img(src='@/assets/curso/tema4/img1.svg', style="width:450px").m-auto
       .col-lg-8.order-1.order-lg-2(data-aos="fade-left")
-        p Para cubrir el territorio nacional, la Red colombiana de formación ambiental está conformada por siete (7) nodos regionales, coordinados por el mismo número de universidades regionales:
+        p Para cubrir el territorio nacional, la Red Colombiana de Formación Ambiental está conformada por siete (7) nodos regionales, coordinados por el mismo número de universidades regionales:
         ul.lista-ul--color.ms-3
           li 
             i.fas.fa-check(style="color: #FFA031")
@@ -84,11 +84,11 @@
                   p Los cuales se han identificado y se han caracterizado para procesos políticos, culturales y de educación desde  los Decretos Ley 4633 (2011) (para comunidades y pueblos indígenas), Ley 4634 (2011) (para el pueblo Rrom) y Ley 4635 (2011) (para las comunidades negras, afrocolombianas, raizales y palenqueras), que norman lo que tiene que ver con la atención, asistencia y reparación a víctimas de grupos étnicos, constituyen un gran avance en el reconocimiento y la reivindicación de los derechos de los colectivos étnicos, sus unidades familiares y sus miembros individualmente considerados, que por más de 50 años han experimentado el conflicto interno de una manera particular, dada sus condiciones geográficas, culturales, territoriales, históricas, contextuales, sociales y culturales específicas (Unidad para la atención y reparación de las víctimas, s.f., p.3).
           p(data-aos="fade-down") Conózcanos entones un poco más de cada una de este tipo de comunidades:
           TabsC.color-acento-contenido(data-aos="fade-right")
-            .py-3.py-md-4(titulo="Pueblos RROM")
+            .py-3.py-md-4(titulo="Pueblos Rrom")
               .row.align-items-center.justify-content-center
                 .col-lg-7.mb-4.mb-lg-0
-                  p El pueblo gitano o Rrom hace parte de la diversidad étnica y cultural de la nación y, de acuerdo con sus elementos, valores culturales y étnicos, se considera como un pueblo que posee características propias que los diferencian de otros y del resto de la sociedad mayoritaria: no reconocen un territorio como propio, poseen un idioma llamado Rromanes, son patrilineales y patrilocales. Siguen una ley llamada Kriss Rromani y tienen conceptos de tiempo y lugar de acuerdo a usos y costumbres ancestrales.
-                  p Su forma tradicional de organización social y política es la Kumpany (grupos patrilineales de por lo menos 3 familias que se asientan en municipios y ciudades a lo largo del país). Encontradas en Kumpanias en Sabanalarga (Atlántico), Sampués (Sucre), Sahagún (Córdoba), San Pelayo (Córdoba), Cúcuta (Norte de Santander), Girón (Santander), Envigado (Antioquia), Ataco (Tolima), y Bogotá (Dividida en dos: los pertenecientes a Y Unión Romaní y Prorrom) (Unidad para la atención y reparación de las víctimas, s.f., p.7).
+                  p El pueblo gitano o Rrom hace parte de la diversidad étnica y cultural de la nación y, de acuerdo con sus elementos, valores culturales y étnicos, se considera como un pueblo que posee características propias que los diferencian de otros y del resto de la sociedad mayoritaria: no reconocen un territorio como propio, poseen un idioma llamado Rromanes, son patrilineales y patrilocales. Siguen una ley llamada Kriss Rromani y tienen conceptos de tiempo y lugar de acuerdo a usos y costumbres ancestrales (Unidad para la atención y reparación de las victimas. s.f. p.7).
+                  p Su forma tradicional de organización social y política es la Kumpany, la cual, para el caso de Colombia, son grupos patrilineales de por lo menos 3 familias que se asientan en municipios y ciudades a lo largo del país. En ella ejercen su justicia propia, y autonomía tanto en sus formas de sustento económico como en la toma de decisiones. En Colombia encontramos en Kumpanias en Sabanalarga (Atlántico), Sampués (Sucre), Sahagún (Córdoba), San Pelayo (Córdoba), Cúcuta (Norte de Santander), Girón (Santander), Envigado (Antioquia), Ataco (Tolima), y Bogotá (Dividida en dos: los pertenecientes a Y Unión Romaní y Prorrom) (Unidad para la atención y reparación de las víctimas, s.f., p.7).
                 .col-lg-4
                   figure
                     img(src='@/assets/curso/tema4/img3.png', style="width:450px").m-auto
@@ -152,22 +152,18 @@
               figure
                 img(src='@/assets/curso/tema4/img9.png', style="width:350px").m-auto
             .col-lg-8(data-aos="fade-left")
-              p Dentro de este enfoque se involucran las personas que presenten una o varias condiciones de discapacidad (física, sensorial, cognitiva o mental), de acuerdo con la Unidad para la atención y reparación de las víctimas. Estas pueden categorizarse así:
+              p Dentro de este enfoque se involucran las personas que presenten una o varias condiciones de discapacidad (física, sensorial, cognitiva o mental), de acuerdo con la Unidad para la Atención y Reparación de las Víctimas. Estas pueden categorizarse así:
               ImagenInfografica.color-acento-botones
                 template(v-slot:imagen)
                   figure
                     img(src='@/assets/curso/tema4/img5.svg', alt='')
                 .tarjeta.color-acento-botones1.p-3(x="10.7%" y="25.3%" numero="+")
-                  h4.text-white.mb-0 #[b Discapacidad física]
                   p.text-white.mb-0 Incluye en general a las personas que por cualquier razón tengan movilidad reducida, que encuentran barreras para movilizarse, cambiar o mantener una posición corporal, manipular objetos de forma autónoma e independiente o que usan ayudas técnicas, prótesis u órtesis.
                 .tarjeta.color-acento-botones2.p-3(x="36.8%" y="25.3%" numero="+")
-                  h4.text-white.mb-0 #[b Discapacidad sensorial]
                   p.text-white.mb-0 Incluye en general a las personas que, por alguna afectación, completa o parcial, en los sentidos de la visión o de la audición o en ambos, encuentran dificultades para comunicarse o desempeñarse en sus actividades cotidianas en igualdad de condiciones.
                 .tarjeta.color-acento-botones3.p-3(x="63.1%" y="25.3%" numero="+")
-                  h4.text-white.mb-0 #[b Discapacidad cognitiva]
                   p.text-white.mb-0 Incluye en general personas cuyo proceso de pensamiento, aprendizaje y adquisición del conocimiento es diferente. No hace referencia a una incapacidad para aprender, pensar o adquirir el conocimiento, sino a quienes se enmarcan en este tipo de discapacidad de otras maneras, en otros tiempos y a otros ritmos.
                 .tarjeta.color-acento-botones4.p-3(x="89.2%" y="25.3%" numero="+")
-                  h4.text-white.mb-0 #[b Discapacidad mental]
                   p.text-white.mb-0 Incluye en general a las personas cuyas funciones o estructuras mentales o psicosociales son diferentes, presentando dificultad en la ejecución de sus actividades […]. Este tipo de discapacidad hace referencia a personas con diagnósticos como depresión profunda, trastorno bipolar y esquizofrenia, entre otras (Unidad para la atención y reparación de las víctimas, s.f., p.5).
     Separador
     #t_4_3

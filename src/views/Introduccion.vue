@@ -1,7 +1,7 @@
 <template lang="pug">
 .curso-main-container.introduccion
   BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
+  .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span
@@ -10,7 +10,7 @@
     .row.bg-c1
       .col-12
         .px-5
-          .row.align-items-center.mb-4
+          .row.align-items-center
             .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
               figure
                 img(src='@/assets/curso/intro/img1.svg', style="width:350px").m-auto

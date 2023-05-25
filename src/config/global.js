@@ -151,7 +151,7 @@ export default {
     },
     {
       termino:
-        'Comité Técnico Interinstitucional de Educación Ambiental [Cidea]',
+        'Comité Técnico Interinstitucional de Educación Ambiental [CIDEA]',
       significado:
         'es un grupo de profesionales e instituciones de diferentes ramas de la ciencia que asume el debate y la formulación de los planes de educación ambiental en los niveles municipal, departamental o regional y busca consolidar y articular los diversos actores públicos y privados asentados en el territorio, que tienen competencias, responsabilidades o intereses en el desarrollo de programas, proyectos y acciones de Educación Ambiental (CAR, s.f.).',
     },
@@ -171,7 +171,7 @@ export default {
         'se elabora en cada institución educativa para fortalecer la cultura ambiental y consolidar acciones participativas que aborden la problemática ambiental local (CAR, s.f.).',
     },
     {
-      termino: 'Proyecto Ciudadano de Educación Ambiental',
+      termino: 'Proyecto Ciudadano de Educación Ambiental [PROCEDA]',
       significado:
         'proyecto de iniciativa comunitaria con el objeto de fortalecer la cultura ambiental y la autogestión de las comunidades y sus organizaciones para desarrollar acciones que aborden la problemática ambiental local (CAR, s.f.).',
     },
@@ -207,7 +207,7 @@ export default {
     {
       referencia:
         'Defensoría del Pueblo de Colombia. (2014). <em>Enfoque diferencial, un principio transversal en la materialización de los derechos de los grupos étnicos en su condición de víctimas</em>. ',
-      link: 'http://www.defensoria.gov.co/public/pdf/04/boletin3etnicos.pdf',
+      link: '',
     },
     {
       referencia:
@@ -218,14 +218,12 @@ export default {
     {
       referencia:
         'Ministerio del Interior. (2012). <em>El enfoque diferencial y étnico en la política pública de víctimas del conflicto armado. ISBN: 978-958-8909-38-7</em>. ',
-      link:
-        'https://gapv.mininterior.gov.co/sites/default/files/cartilla_enfoque_diferencial_fin_1.pdf',
+      link: '',
     },
     {
       referencia:
         'Ministerio de Ambiente, Vivienda y Desarrollo Territorial [MAVDT]. (2006). <em>Programa de Educación Ambiental y Participación Ciudadana</em>. ',
-      link:
-        'https://www.minambiente.gov.co/images/OrdenamientoAmbientalTerritorialyCoordinaciondelSIN/pdf/Agenda_Ambiental_Propia_del_Pueblo_Pastos_del_Nudo_de_los_Pastos/comunidad_cienaga_grande.pdf',
+      link: '',
     },
     {
       referencia:

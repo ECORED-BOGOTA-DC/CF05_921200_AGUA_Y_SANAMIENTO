@@ -1,7 +1,7 @@
 <template lang="pug">
 .curso-main-container.pb-3
   BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
+  .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 3
@@ -19,7 +19,7 @@
         LineaTiempoD.color-primario
           .row(numero="1" titulo="1972 - Conferencia de Estocolmo")
             .col-12
-              p La Conferencia de las Naciones Unidas Sobre el Medio Humano se realizó en Estocolmo del 5 al 16 de junio de 1972, contando con la participación de 113 países, 19 organismos internacionales y más de 400 ONG´s, dando inicio a la conciencia política y pública de los problemas ambientales (Hollmann, 2017, p. 8).
+              p La Conferencia de las Naciones Unidas sobre el Medio Humano se realizó en Estocolmo del 5 al 16 de junio de 1972, contando con la participación de 113 países, 19 organismos internacionales y más de 400 ONG, dando inicio a la conciencia política y pública de los problemas ambientales (Hollmann, 2017, p. 8).
               p Como resultado, se emitió un total de 26 principios y 109 recomendaciones, así como la necesidad de abordar y controlar temas como la caza comercial de ballenas, el monitoreo del consumo energético y la descarga intencionada de petróleo en el mar.
           .row(numero="2" titulo="1974 - Decreto 2811 de 1974")
             .col-12
@@ -82,15 +82,16 @@
                   | Conservación y gestión de los recursos para el desarrollo.
                 li 
                   i.lista-ul__vineta
-                  | Fortalecimiento del papel de los Grupos principales.
+                  | Fortalecimiento del papel de los grupos principales.
                 li 
                   i.lista-ul__vineta
                   | Medios de ejecución.
               .cajon.color-secundario.p-4
                 p.mb-0 También empieza a ganar relevancia el término Desarrollo Sostenible.
-          .row(numero="7" titulo="Ley 99 de 1993")
+          .row(numero="7" titulo="1993 - Ley 99 de 1993")
             .col-12
-              p Expedida por el Congreso de la República de Colombia en diciembre de 1993, reordena las responsabilidades en materia de gestión, control y vigilancia ambiental del sector público, a partir de la creación del Ministerio del Medio Ambiente, y organiza el Sistema Nacional Ambiental, SINA, permitiendo así una articulación con los contenidos indicados en la Constitución. El SINA se conforma por:
+              p Expedida por el Congreso de la República de Colombia en diciembre de 1993, reordena las responsabilidades en materia de gestión, control y vigilancia ambiental del sector público, a partir de la creación del Ministerio del Medio Ambiente, y organiza el Sistema Nacional Ambiental, SINA, permitiendo así una articulación con los contenidos indicados en la Constitución.
+              p El SINA se conforma por:
               ul.lista-ul.mb-3
                 li 
                   i.lista-ul__vineta
@@ -101,24 +102,26 @@
                 li 
                   i.lista-ul__vineta
                   | Entidades territoriales.
-              p Institutos de investigación adscritos y vinculados al Ministerio como:
-              ul.lista-ul.mb-0
                 li 
                   i.lista-ul__vineta
-                  | IDEAM.
-                li 
-                  i.lista-ul__vineta
-                  | SINCHI.
-                li 
-                  i.lista-ul__vineta
-                  | Alexander Von Humboldt.
-                li 
-                  i.lista-ul__vineta
-                  | Invemar.
-                li 
-                  i.lista-ul__vineta
-                  | IIAP.
-          .row(numero="8" titulo="Ley 134 de 1994")
+                  | Institutos de investigación adscritos y vinculados al Ministerio como:
+                  ul.lista-ul.mb-3
+                    li 
+                      i.lista-ul__vineta
+                      | IDEAM.
+                    li 
+                      i.lista-ul__vineta
+                      | SINCHI.
+                    li 
+                      i.lista-ul__vineta
+                      | Alexander Von Humboldt.
+                    li 
+                      i.lista-ul__vineta
+                      | Invemar.
+                    li 
+                      i.lista-ul__vineta
+                      | IIAP.
+          .row(numero="8" titulo="1994 - Ley 134 de 1994")
             .col-12
               p Publicada en el Diario Oficial en mayo de 1994, esta ley define los mecanismos de participación ciudadana y establece los protocolos para el trámite de estos. Se incluyen mecanismos de participación definidos por la ley:
               .tarjeta.color-primario.p-3
@@ -173,8 +176,8 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h3.mb-1 Ley 1549 del 2012
-              p.text-small Con el propósito de conocer el artículos relacionados con el desarrollo territorial, se invita al aprendiz a consultar el siguiente documento:
+              h3.mb-1 Programa 21 (Agenda 21)
+              p.text-small Para complementar sus conocimientos en el proceso normativo, puede consultar el contenido del Programa 21 (Agenda 21), visitando la página de las Naciones Unidas.
             .col-sm-auto
               a.boton.color-acento-botones.texto-blanco(href="https://www.un.org/spanish/esa/sustdev/agenda21/index.htm" target="_blank")
                 span(style="color: #FFF !important") Ir a la página
