@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="Representa la síntesis de los temas vistos en el componente formativo denominado Diagnóstico ambiental, que comprende conceptos, normatividad nacional vigente y el enfoque de comunidades y las características de cada uno de estos subtemas.")
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/anexo7.pdf')" target="_blank")
           .anexo__icono
