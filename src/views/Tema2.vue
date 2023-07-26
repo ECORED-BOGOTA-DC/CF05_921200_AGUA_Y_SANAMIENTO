@@ -21,7 +21,7 @@
                       p Estimado aprendiz, para iniciar el recorrido por la educación ambiental, le invitamos a ver el siguiente video, el cual le ayuda a comprender terminología y conceptos de suma importancia para las acciones realizadas como promotor ambiental:
           figure(data-aos="fade-left")
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/_oj2vI5DwFE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 </template>
 
