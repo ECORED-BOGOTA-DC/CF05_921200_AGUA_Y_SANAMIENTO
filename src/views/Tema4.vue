@@ -166,7 +166,7 @@
                 .tarjeta.color-acento-botones4.p-3(x="89.2%" y="25.3%" numero="+")
                   p.text-white.mb-0 Incluye en general a las personas cuyas funciones o estructuras mentales o psicosociales son diferentes, presentando dificultad en la ejecución de sus actividades […]. Este tipo de discapacidad hace referencia a personas con diagnósticos como depresión profunda, trastorno bipolar y esquizofrenia, entre otras (Unidad para la atención y reparación de las víctimas, s.f., p.5).
     Separador
-    #t_4_3
+    #t_4_4
     .titulo-segundo.color-acento-botones
       h2 4.4 Enfoque diferencial de edad
     .row.align-items-center.mb-5
