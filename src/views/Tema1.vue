@@ -12,7 +12,7 @@
           .row.align-items-center.mb-4
             .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
               figure
-                img(src='@/assets/curso/tema1/img1.svg', style="width:350px").m-auto
+                img(src='@/assets/curso/tema1/img1.svg', style="width:350px", alt="Imagen decorativa").m-auto
             .col-lg-8(data-aos="fade-left")
               p.mb-4 La relación existente entre el desarrollo económico y social con el ambiental se ha hecho más evidente durante los últimos años, en parte porque se ha modificado la concepción de recursos naturales como un bien para el desarrollo del ser humano, al constatarse los cambios irreparables que se han producido en estos recursos, así como su inminente deterioro y pérdida.
               h4 Interpretación del territorio

@@ -24,11 +24,11 @@
           p.mb-0 Posteriormente, se crea la Red Colombiana de Formación Ambiental, que es un programa que cuenta con el apoyo del Ministerio de Ambiente, Vivienda y Desarrollo Territorial, que a su vez es punto focal del Programa de Naciones Unidas para el Medio Ambiente PNUMA. Es una organización que agrupa las entidades que requieren formar en la dimensión ambiental el recurso humano de las instituciones, cuyo objetivo primordial es la investigación y la formación.
       .col-lg-4(data-aos="fade-left")
         figure
-          img(src='@/assets/curso/tema4/img1.png', style="width:450px").m-auto
+          img(src='@/assets/curso/tema4/img1.png', style="width:450px", alt="Imagen decorativa").m-auto
     .row.align-items-center.mb-4
       .col-lg-4.mb-4.mb-lg-0.order-2.order-lg-1(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/tema4/img1.svg', style="width:450px").m-auto
+          img(src='@/assets/curso/tema4/img1.svg', style="width:450px", alt="Imagen decorativa").m-auto
       .col-lg-8.order-1.order-lg-2(data-aos="fade-left")
         p Para cubrir el territorio nacional, la Red Colombiana de Formación Ambiental está conformada por siete (7) nodos regionales, coordinados por el mismo número de universidades regionales:
         ul.lista-ul--color.ms-3
@@ -77,7 +77,7 @@
           .row.align-items-center.mb-4
             .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
               figure
-                img(src='@/assets/curso/tema4/img2.png', style="width:350px").m-auto
+                img(src='@/assets/curso/tema4/img2.png', style="width:350px", alt="Imagen decorativa").m-auto
             .col-lg-8(data-aos="fade-left")
               .row
                 .col-12.bg-c2.p-4
@@ -91,7 +91,7 @@
                   p Su forma tradicional de organización social y política es la Kumpany, la cual, para el caso de Colombia, son grupos patrilineales de por lo menos 3 familias que se asientan en municipios y ciudades a lo largo del país. En ella ejercen su justicia propia, y autonomía tanto en sus formas de sustento económico como en la toma de decisiones. En Colombia encontramos en Kumpanias en Sabanalarga (Atlántico), Sampués (Sucre), Sahagún (Córdoba), San Pelayo (Córdoba), Cúcuta (Norte de Santander), Girón (Santander), Envigado (Antioquia), Ataco (Tolima), y Bogotá (Dividida en dos: los pertenecientes a Y Unión Romaní y Prorrom) (Unidad para la atención y reparación de las víctimas, s.f., p.7).
                 .col-lg-4
                   figure
-                    img(src='@/assets/curso/tema4/img3.png', style="width:450px").m-auto
+                    img(src='@/assets/curso/tema4/img3.png', style="width:450px", alt="Imagen decorativa").m-auto
             .py-3.py-md-4(titulo="Indígenas")
               .row.align-items-center.justify-content-center
                 .col-lg-7.mb-4.mb-lg-0
@@ -99,35 +99,35 @@
                   p Es de notar, que la dispersión de las comunidades indígenas es alta, pero existen ciertos departamentos donde se concentran en mayor medida, como en Vaupés y Guainía, donde representan más del 65% de la población, o la Guajira, Vichada y Amazonas donde superan el 45 % de la población. Asimismo, en los Departamentos de La Guajira, Cauca, Nariño, Córdoba y Sucre se encuentran las mayores concentraciones, representando cerca del 63% de la población indígena del país; pero es en la Amazonía y sus seis (6) departamentos donde se aísla la mayor diversidad: 56 pueblos de los 102 que se han reconocido, aunque no estén censalmente reportados (p.15).
                 .col-lg-4
                   figure
-                    img(src='@/assets/curso/tema4/img4.png', style="width:450px").m-auto
+                    img(src='@/assets/curso/tema4/img4.png', style="width:450px", alt="Imagen decorativa").m-auto
             .py-3.py-md-4(titulo="Comunidades negras")
               .row.align-items-center.justify-content-center
                 .col-lg-7.mb-4.mb-lg-0
                   p Es el conjunto de familias de ascendencia afrocolombiana que poseen una cultura propia, comparten una historia y tienen sus propias tradiciones y costumbres dentro de la relación campo - poblado, que revelan y conservan conciencia de identidad que las distinguen de otros grupos étnicos (Ley 70 de 1993, art. 2, numeral 5).
                 .col-lg-4
                   figure
-                    img(src='@/assets/curso/tema4/img5.png', style="width:450px").m-auto
+                    img(src='@/assets/curso/tema4/img5.png', style="width:450px", alt="Imagen decorativa").m-auto
             .py-3.py-md-4(titulo="Afrodescendientes")
               .row.align-items-center.justify-content-center
                 .col-lg-7.mb-4.mb-lg-0
                   p Este concepto agrupa la comunidad humana en su conjunto, en tanto científicamente se reconoce que ésta desciende de África. No obstante y como categoría jurídica – política, la III Conferencia Mundial contra el Racismo, la Discriminación Racial, la Xenofobia y demás formas conexas de intolerancia, adoptó este término para referirse a la diáspora africana. Como categoría jurídica, el concepto de afrodescendiente da estatus de sujeto de derechos internacionales (Unidad para la atención y reparación de las víctimas, s.f., p.20).
                 .col-lg-4
                   figure
-                    img(src='@/assets/curso/tema4/img6.png', style="width:450px").m-auto
+                    img(src='@/assets/curso/tema4/img6.png', style="width:450px", alt="Imagen decorativa").m-auto
             .py-3.py-md-4(titulo="Comunidad negra de San Basilio de Palenque")
               .row.align-items-center.justify-content-center
                 .col-lg-7.mb-4.mb-lg-0
                   p Se diferencia del resto de comunidades negras del país por contar con un dialecto propio, producto de la mezcla de lenguas africanas con el castellano.
                 .col-lg-4
                   figure
-                    img(src='@/assets/curso/tema4/img7.png', style="width:450px").m-auto
+                    img(src='@/assets/curso/tema4/img7.png', style="width:450px", alt="Imagen decorativa").m-auto
             .py-3.py-md-4(titulo="Raizales del Archipiélago de San Andrés y Providencia")
               .row.align-items-center.justify-content-center
                 .col-lg-7.mb-4.mb-lg-0
                   p Se diferencian de las comunidades negras del continente porque cuentan con un dialecto propio y con prácticas culturales y religiosas más cercanas a la cultura antillana y a la influencia anglosajona en la región Caribe (Unidad para la atención y reparación de las víctimas, s.f., p.26).
                 .col-lg-4
                   figure
-                    img(src='@/assets/curso/tema4/img8.png', style="width:450px").m-auto
+                    img(src='@/assets/curso/tema4/img8.png', style="width:450px", alt="Imagen decorativa").m-auto
     Separador
     #t_4_2
     .titulo-segundo.color-acento-botones
@@ -136,7 +136,7 @@
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
           figure
-            img(src='@/assets/curso/tema4/img3.svg', style="width:350px").m-auto
+            img(src='@/assets/curso/tema4/img3.svg', style="width:350px", alt="Imagen decorativa").m-auto
         .col-lg-8
           .bloque-texto-a__texto.p-4
             p Este enfoque reúne a todas las personas con orientaciones sexuales y con una identidad de género diferencial; en este enfoque no solo parte de los significados de la comunidad LGBTI, sino, a su vez, de las limitaciones y segregaciones a los que son sometidos. Conocer sus costumbres y procesos culturales es necesario para el trabajo directo de educación ambiental con estas comunidades.
@@ -150,7 +150,7 @@
           .row.align-items-center
             .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
               figure
-                img(src='@/assets/curso/tema4/img9.png', style="width:350px").m-auto
+                img(src='@/assets/curso/tema4/img9.png', style="width:350px", alt="Imagen decorativa").m-auto
             .col-lg-8(data-aos="fade-left")
               p Dentro de este enfoque se involucran las personas que presenten una o varias condiciones de discapacidad (física, sensorial, cognitiva o mental), de acuerdo con la Unidad para la Atención y Reparación de las Víctimas. Estas pueden categorizarse así:
               ImagenInfografica.color-acento-botones
@@ -176,14 +176,14 @@
           p.mb-0 De acuerdo con la Estrategia Nacional de Atención Integral a la Primera Infancia de Cero a Siempre, Fundamentos Políticos, Técnicos y de Gestión del año 2013, los niños y niñas son ciudadanos sujetos plenos de derechos, sociales, culturales, diversos, capaces, completos y activos, que al igual que los demás seres humanos, están en proceso de desarrollo. Esto significa que son capaces, que pueden participar en lo que atañe a su vida y según su momento de desarrollo y que deben ser valorados en el presente y no solo cómo las personas del futuro.
       .col-lg-4(data-aos="fade-left")
         figure
-          img(src='@/assets/curso/tema4/img10.png', style="width:350px").m-auto
+          img(src='@/assets/curso/tema4/img10.png', style="width:350px", alt="Imagen decorativa").m-auto
     .row.bg-c8.mb-5
       .col-12
         .p-5
           .row.align-items-center(data-aos="fade-down")
             .col-lg-auto.mb-4.mb-lg-0
               figure
-                img(src='@/assets/curso/tema4/img10.svg', style="width:70px").m-auto
+                img(src='@/assets/curso/tema4/img10.svg', style="width:70px", alt="Imagen decorativa").m-auto
             .col-lg
               p.mb-0 #[b En cuanto a la persona mayor]: es aquella persona que cuenta con sesenta (60) años de edad o más. Una persona podría ser clasificada dentro de este rango, siendo menor de 60 años y mayor de 55, cuando sus condiciones de desgaste físico, vital y psicológico así lo determinen.
     .row.justify-content-center(data-aos="fade-right")
@@ -192,7 +192,7 @@
           .row.m-0.align-items-center.justify-content-between
             .col-lg-4.mb-4.mb-lg-0
               figure
-                img(src='@/assets/curso/tema4/img11.svg', style="width:350px").m-auto
+                img(src='@/assets/curso/tema4/img11.svg', style="width:350px", alt="Imagen decorativa").m-auto
             .col-lg-8
               .bloque-texto-a__texto.p-4
                 p Se podría concluir que, si no se tienen en cuenta los enfoques diferenciales en el diagnóstico de una comunidad, se estarían excluyendo características, costumbres y culturas que influyen directamente en el ambiente y sus condiciones.

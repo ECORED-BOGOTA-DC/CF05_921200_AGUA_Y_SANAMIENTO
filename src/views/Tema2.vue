@@ -15,7 +15,7 @@
                 .row.m-0.align-items-center.justify-content-between
                   .col-lg-4.mb-4.mb-lg-0
                     figure
-                      img(src='@/assets/curso/tema2/img1.svg', style="width:350px").m-auto
+                      img(src='@/assets/curso/tema2/img1.svg', style="width:350px", alt="Imagen decorativa").m-auto
                   .col-lg-8
                     .bloque-texto-a__texto.p-4
                       p Estimado aprendiz, para iniciar el recorrido por la educación ambiental, le invitamos a ver el siguiente video, el cual le ayuda a comprender terminología y conceptos de suma importancia para las acciones realizadas como promotor ambiental:

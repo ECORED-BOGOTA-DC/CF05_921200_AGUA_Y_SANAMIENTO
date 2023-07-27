@@ -13,7 +13,7 @@
           .row.align-items-center
             .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
               figure
-                img(src='@/assets/curso/intro/img1.svg', style="width:350px").m-auto
+                img(src='@/assets/curso/intro/img1.svg', style="width:350px", alt="Imagen decorativa").m-auto
             .col-lg-8(data-aos="fade-left")
               .row
                 .col-12.bg-c2.p-4

@@ -9,7 +9,7 @@
     .row.align-items-center.mb-5
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/tema3/img1.png', style="width:450px").m-auto
+          img(src='@/assets/curso/tema3/img1.png', style="width:450px", alt="Imagen decorativa").m-auto
       .col-lg-8(data-aos="fade-left")
         p Entender las bases normativas que rigen la educación ambiental, no solamente permite tener fundamentos para hacer valer los derechos, también sirve para fortalecer y garantizar los procesos de participación y de educación a las comunidades, con miras a promover un ambiente sano y el desarrollo sostenible en las mismas.
         .cajon.color-acento-botones.p-4
@@ -63,11 +63,11 @@
                           i.fas.fa-file-download(style="color: #000 !important")
       .col-lg-5(data-aos="fade-left")
         figure
-          img(src='@/assets/curso/tema3/img1.svg', style="width:450px").m-auto
+          img(src='@/assets/curso/tema3/img1.svg', style="width:450px", alt="Imagen decorativa").m-auto
     .row.align-items-center.mb-5
       .col-lg-5.order-2.order-lg-1(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/tema3/img2.svg', style="width:450px").m-auto
+          img(src='@/assets/curso/tema3/img2.svg', style="width:450px", alt="Imagen decorativa").m-auto
       .col-lg-7.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
         LineaTiempoD.color-primario
           .row(numero="6" titulo="1992 - Cumbre de la Tierra Río")
