@@ -11,11 +11,11 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Enfoque diferencial
-        p.mb-4 Interpretar dentro de las características relacionadas de los enfoques diferenciales el aspecto propio de acuerdo proceso desempeñado en la comunidad.
+        p.mb-4 Interpretar dentro de las características relacionadas de los enfoques diferenciales el aspecto propio de acuerdo, proceso desempeñado en la comunidad.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Relacionar terminos.
+              p.fw-bold.mb-0 Relacionar términos.
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/index.html')" target="_blank")
                 span Realizar

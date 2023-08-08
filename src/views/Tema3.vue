@@ -164,7 +164,7 @@
                     .row.justify-content-between.align-items-center
                       .col.mb-3.mb-sm-0
                         h3.text-white.mb-1 Ley 1549 del 2012
-                        p.text-small.text-white Con el propósito de conocer el artículos relacionados con el desarrollo territorial, se invita al aprendiz a consultar el siguiente documento:
+                        p.text-small.text-white Con el propósito de conocer los artículos relacionados con el desarrollo territorial, se invita al aprendiz a consultar el siguiente documento:
                       .col-sm-auto
                         a.boton.color-primario.texto-blanco(:href="obtenerLink('/downloads/anexo4.pdf')" target="_blank")
                           span(style="color: #000 !important") Descargar
