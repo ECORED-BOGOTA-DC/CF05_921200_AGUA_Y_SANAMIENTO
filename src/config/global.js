@@ -140,13 +140,6 @@ export default {
       tipo: 'Página web',
       link: 'https://www.un.org/spanish/esa/sustdev/agenda21/index.htm',
     },
-    {
-      tema: 'Enfoque diferencial de las comunidades',
-      referencia:
-        'Ministerio de Ambiente, Vivienda y Desarrollo Sostenible. (s.f.). <em>Red colombiana de formación ambiental</em>.',
-      tipo: 'Boletín ',
-      descarga: '/downloads/anexo6.pdf',
-    },
   ],
   glosario: [
     {
